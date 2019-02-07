@@ -1,0 +1,6 @@
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\bin\Debug\ggTkgV.exe.config
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\obj\Debug\ggTkgV.csprojResolveAssemblyReference.cache
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\bin\Debug\ggTkgV.exe
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\bin\Debug\ggTkgV.pdb
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\obj\Debug\ggTkgV.exe
+C:\Users\Fethi\Desktop\ggTkgV\ggTkgV\obj\Debug\ggTkgV.pdb
